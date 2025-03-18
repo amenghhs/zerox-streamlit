@@ -1,5 +1,9 @@
 ## Zerox OCR with streamlit
 
+## Run
+```
+streamlit run .\AT-py\PDF-Md.py
+```
 
 ## Credits
 
