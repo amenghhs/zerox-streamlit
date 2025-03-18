@@ -2,7 +2,7 @@
 
 ## Run
 ```
-streamlit run .\AT-py\PDF-Md.py
+streamlit run .\PDF-Md.py
 ```
 
 ## Credits
